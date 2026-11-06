@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Airgest</string>
+    <string name="accessibility_description">Allows Airgest to perform taps, swipes, scrolling, and navigation when you explicitly enable its accessibility service.</string>
+</resources>
